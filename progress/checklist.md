@@ -5,7 +5,7 @@ Legend: ✅ done · 🟡 in progress · ⬜ not started
 ## From-scratch builds (no notes by October)
 - [x] Linear Regression (GD, +L2)
 - [ ] Logistic Regression (port)
-- [ ] KNN
+- [x] KNN
 - [ ] K-Means
 - [ ] Decision Tree (split logic)
 - [ ] One-hidden-layer MLP
@@ -15,7 +15,7 @@ Legend: ✅ done · 🟡 in progress · ⬜ not started
 ## ML theory notes
 - [x] 00 Foundations (recap)
 - [x] 01 Regularization & Optimization
-- [ ] 02 KNN
+- [x] 02 KNN
 - [ ] 03 Decision Trees
 - [ ] 04 Bagging & Random Forests
 - [ ] 05 Boosting

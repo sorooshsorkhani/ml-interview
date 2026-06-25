@@ -14,7 +14,7 @@ implementations/
 |---|---|---|---|---|
 | 1 | Linear Regression (GD, +L2) | [linear_regression.py](src/linear_regression.py) | [01](../ml-theory/01-regularization-and-optimization.md) | ✅ done |
 | 2 | Logistic Regression (GD) | [logistic_regression.py](src/logistic_regression.py) | [00](../ml-theory/00-foundations.md) | ⬜ port existing |
-| 3 | KNN Classifier | [knn.py](src/knn.py) | [02](../ml-theory/02-knn.md) | 🟡 W2 |
+| 3 | KNN Classifier | [knn.py](src/knn.py) | [02](../ml-theory/02-knn.md) | ✅ done |
 | 4 | K-Means | [kmeans.py](src/kmeans.py) | [06](../ml-theory/06-kmeans-pca.md) | 🟡 W6 |
 | 5 | Decision Tree | [decision_tree.py](src/decision_tree.py) | [03](../ml-theory/03-decision-trees.md) | 🟡 W3 |
 | 6 | One-hidden-layer MLP | [mlp.py](src/mlp.py) | [07](../ml-theory/07-neural-networks.md) | 🟡 W7 |

@@ -36,7 +36,7 @@ My personal, public, constantly-evolving prep for **Applied Machine Learning Sci
 |---|---|---|---|
 | 00 | [Foundations recap (Linear & Logistic Regression, core theory)](ml-theory/00-foundations.md) | done | ✅ done (prior) |
 | 01 | [Regularization & Optimization](ml-theory/01-regularization-and-optimization.md) | W1 | ✅ written |
-| 02 | [K-Nearest Neighbors](ml-theory/02-knn.md) | W2 | 🟡 scaffold |
+| 02 | [K-Nearest Neighbors](ml-theory/02-knn.md) | W2 | ✅ written |
 | 03 | [Decision Trees](ml-theory/03-decision-trees.md) | W3 | 🟡 scaffold |
 | 04 | [Ensembles 1: Bagging & Random Forests](ml-theory/04-ensembles-bagging.md) | W4 | 🟡 scaffold |
 | 05 | [Ensembles 2: Boosting (AdaBoost, GBM, XGBoost)](ml-theory/05-ensembles-boosting.md) | W5 | 🟡 scaffold |
@@ -54,7 +54,7 @@ Canonical builds — must code without notes by October. See [`implementations/R
 |---|---|---|
 | 1 | [Linear Regression (GD)](implementations/src/linear_regression.py) | ✅ done (prior) — to port |
 | 2 | [Logistic Regression (GD)](implementations/src/logistic_regression.py) | ✅ done (prior) — to port |
-| 3 | [KNN Classifier](implementations/src/knn.py) | 🟡 scaffold |
+| 3 | [KNN Classifier](implementations/src/knn.py) | ✅ written |
 | 4 | [K-Means](implementations/src/kmeans.py) | 🟡 scaffold |
 | 5 | [Decision Tree](implementations/src/decision_tree.py) | 🟡 scaffold |
 | 6 | [One-hidden-layer MLP (numpy)](implementations/src/mlp.py) | 🟡 scaffold |
