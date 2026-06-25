@@ -1,0 +1,12 @@
+"""Tests for DecisionTreeClassifier — 🟡 scaffold, to be filled when decision_tree.py is implemented."""
+
+import os, sys
+import numpy as np  # noqa: F401
+import pytest
+
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "src"))
+
+
+@pytest.mark.skip(reason="decision_tree.py not implemented yet")
+def test_placeholder():
+    pass
