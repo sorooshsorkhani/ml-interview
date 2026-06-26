@@ -17,7 +17,7 @@ implementations/
 | 3 | KNN Classifier | [knn.py](src/knn.py) | [02](../ml-theory/02-knn.md) | ✅ done |
 | 4 | K-Means | [kmeans.py](src/kmeans.py) | [06](../ml-theory/06-kmeans-pca.md) | ✅ done |
 | 5 | Decision Tree | [decision_tree.py](src/decision_tree.py) | [03](../ml-theory/03-decision-trees.md) | ✅ done |
-| 6 | One-hidden-layer MLP | [mlp.py](src/mlp.py) | [07](../ml-theory/07-neural-networks.md) | 🟡 W7 |
+| 6 | One-hidden-layer MLP | [mlp.py](src/mlp.py) | [07](../ml-theory/07-neural-networks.md) | ✅ done |
 | S | Naive Bayes (stretch) | [naive_bayes.py](src/naive_bayes.py) | [11](../ml-theory/11-naive-bayes.md) | 🟡 stretch |
 | S | PCA (stretch) | [pca.py](src/pca.py) | [06](../ml-theory/06-kmeans-pca.md) | ✅ done |
 

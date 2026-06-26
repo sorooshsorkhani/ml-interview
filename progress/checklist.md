@@ -8,7 +8,7 @@ Legend: ✅ done · 🟡 in progress · ⬜ not started
 - [x] KNN
 - [x] K-Means
 - [x] Decision Tree (split logic)
-- [ ] One-hidden-layer MLP
+- [x] One-hidden-layer MLP
 - [ ] _stretch:_ Naive Bayes
 - [x] _stretch:_ PCA
 
@@ -20,9 +20,9 @@ Legend: ✅ done · 🟡 in progress · ⬜ not started
 - [x] 04 Bagging & Random Forests
 - [x] 05 Boosting
 - [x] 06 K-Means & PCA
-- [ ] 07 Neural Networks
-- [ ] 08 NLP & Transformers
-- [ ] 09 LLMs & Agentic AI
+- [x] 07 Neural Networks
+- [x] 08 NLP & Transformers
+- [x] 09 LLMs & Agentic AI
 - [x] 10 SVM (read-through)
 - [ ] 11 Naive Bayes (stretch)
 
@@ -33,11 +33,11 @@ Legend: ✅ done · 🟡 in progress · ⬜ not started
 - [x] Binary search
 - [x] Linked lists
 - [x] Stacks/queues
-- [ ] Trees
-- [ ] Heaps
-- [ ] Intervals
-- [ ] Graphs
-- [ ] Intro DP
+- [x] Trees
+- [x] Heaps
+- [x] Intervals
+- [x] Graphs
+- [x] Intro DP
 
 ## Light slot
 - [x] Classification metrics
@@ -50,7 +50,7 @@ Legend: ✅ done · 🟡 in progress · ⬜ not started
 
 ## System design
 - [x] Framework spine
-- [ ] Recommendation case
+- [x] Recommendation case
 - [ ] Fraud case
 - [ ] Search ranking case
 

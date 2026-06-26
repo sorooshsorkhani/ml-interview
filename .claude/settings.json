@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(python implementations/src/kmeans.py)",
-      "Bash(python implementations/src/pca.py)"
+      "Bash(python implementations/src/pca.py)",
+      "Bash(python -m pytest implementations/tests/test_mlp.py -q)",
+      "Bash(python implementations/src/mlp.py)"
     ]
   }
 }

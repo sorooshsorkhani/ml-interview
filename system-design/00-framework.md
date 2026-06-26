@@ -77,7 +77,7 @@ Memory hook: **C-F-D-F-M-E-S-M** ("Clarify Frames Data, Features Model Eval Serv
 ## Worked cases
 | Case | File | Status |
 |---|---|---|
-| Recommendation system | [01-recommendation.md](01-recommendation.md) | 🟡 W9 |
+| Recommendation system | [01-recommendation.md](01-recommendation.md) | ✅ written (W9) |
 | Fraud detection | [02-fraud-detection.md](02-fraud-detection.md) | 🟡 |
 | Search / feed ranking | [03-search-ranking.md](03-search-ranking.md) | 🟡 |
 

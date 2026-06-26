@@ -41,9 +41,9 @@ My personal, public, constantly-evolving prep for **Applied Machine Learning Sci
 | 04 | [Ensembles 1: Bagging & Random Forests](ml-theory/04-ensembles-bagging.md) | W4 | ✅ written |
 | 05 | [Ensembles 2: Boosting (AdaBoost, GBM, XGBoost)](ml-theory/05-ensembles-boosting.md) | W5 | ✅ written |
 | 06 | [Unsupervised: K-Means & PCA](ml-theory/06-kmeans-pca.md) | W6 | ✅ written |
-| 07 | [Neural Network Fundamentals](ml-theory/07-neural-networks.md) | W7 | 🟡 scaffold |
-| 08 | [NLP & Transformers](ml-theory/08-nlp-transformers.md) | W8 | 🟡 scaffold |
-| 09 | [LLMs & Agentic AI](ml-theory/09-llms-agentic.md) | W9 | 🟡 scaffold |
+| 07 | [Neural Network Fundamentals](ml-theory/07-neural-networks.md) | W7 | ✅ written |
+| 08 | [NLP & Transformers](ml-theory/08-nlp-transformers.md) | W8 | ✅ written |
+| 09 | [LLMs & Agentic AI](ml-theory/09-llms-agentic.md) | W9 | ✅ written |
 | + | [SVM (theory read-through)](ml-theory/10-svm.md) | W6 light | ✅ written |
 | + | [Naive Bayes (stretch)](ml-theory/11-naive-bayes.md) | stretch | 🟡 scaffold |
 
@@ -57,7 +57,7 @@ Canonical builds — must code without notes by October. See [`implementations/R
 | 3 | [KNN Classifier](implementations/src/knn.py) | ✅ written |
 | 4 | [K-Means](implementations/src/kmeans.py) | ✅ written |
 | 5 | [Decision Tree](implementations/src/decision_tree.py) | ✅ written |
-| 6 | [One-hidden-layer MLP (numpy)](implementations/src/mlp.py) | 🟡 scaffold |
+| 6 | [One-hidden-layer MLP (numpy)](implementations/src/mlp.py) | ✅ written |
 | S | [Naive Bayes (stretch)](implementations/src/naive_bayes.py) | 🟡 scaffold |
 | S | [PCA (stretch)](implementations/src/pca.py) | ✅ written |
 

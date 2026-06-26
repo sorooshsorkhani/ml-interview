@@ -12,11 +12,11 @@ The AMLS coding bar is usually **Easy → Medium**. Depth on high-yield patterns
 | 4 | Binary search | [04-binary-search.md](04-binary-search.md) | W4 | ✅ written |
 | 5 | Linked lists | [05-linked-lists.md](05-linked-lists.md) | W5 | ✅ written |
 | 6 | Stacks & queues | [06-stacks-queues.md](06-stacks-queues.md) | W6 | ✅ written |
-| 7 | Trees (BFS / DFS / BST) | [07-trees.md](07-trees.md) | W7 | 🟡 |
-| 8 | Heaps | [08-heaps.md](08-heaps.md) | W8 | 🟡 |
-| 9 | Intervals | [09-intervals.md](09-intervals.md) | W8 | 🟡 |
-| 10 | Graphs | [10-graphs.md](10-graphs.md) | W9 | 🟡 |
-| 11 | Intro DP | [11-dynamic-programming.md](11-dynamic-programming.md) | W9 | 🟡 |
+| 7 | Trees (BFS / DFS / BST) | [07-trees.md](07-trees.md) | W7 | ✅ written |
+| 8 | Heaps | [08-heaps.md](08-heaps.md) | W8 | ✅ written |
+| 9 | Intervals | [09-intervals.md](09-intervals.md) | W8 | ✅ written |
+| 10 | Graphs | [10-graphs.md](10-graphs.md) | W9 | ✅ written |
+| 11 | Intro DP | [11-dynamic-programming.md](11-dynamic-programming.md) | W9 | ✅ written |
 
 ## How I work coding
 1. Read the pattern note (trigger + template).
