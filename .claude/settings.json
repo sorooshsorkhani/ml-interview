@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python implementations/src/kmeans.py)",
+      "Bash(python implementations/src/pca.py)"
+    ]
+  }
+}

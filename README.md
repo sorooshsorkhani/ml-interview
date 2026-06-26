@@ -37,14 +37,14 @@ My personal, public, constantly-evolving prep for **Applied Machine Learning Sci
 | 00 | [Foundations recap (Linear & Logistic Regression, core theory)](ml-theory/00-foundations.md) | done | ✅ done (prior) |
 | 01 | [Regularization & Optimization](ml-theory/01-regularization-and-optimization.md) | W1 | ✅ written |
 | 02 | [K-Nearest Neighbors](ml-theory/02-knn.md) | W2 | ✅ written |
-| 03 | [Decision Trees](ml-theory/03-decision-trees.md) | W3 | 🟡 scaffold |
-| 04 | [Ensembles 1: Bagging & Random Forests](ml-theory/04-ensembles-bagging.md) | W4 | 🟡 scaffold |
-| 05 | [Ensembles 2: Boosting (AdaBoost, GBM, XGBoost)](ml-theory/05-ensembles-boosting.md) | W5 | 🟡 scaffold |
-| 06 | [Unsupervised: K-Means & PCA](ml-theory/06-kmeans-pca.md) | W6 | 🟡 scaffold |
+| 03 | [Decision Trees](ml-theory/03-decision-trees.md) | W3 | ✅ written |
+| 04 | [Ensembles 1: Bagging & Random Forests](ml-theory/04-ensembles-bagging.md) | W4 | ✅ written |
+| 05 | [Ensembles 2: Boosting (AdaBoost, GBM, XGBoost)](ml-theory/05-ensembles-boosting.md) | W5 | ✅ written |
+| 06 | [Unsupervised: K-Means & PCA](ml-theory/06-kmeans-pca.md) | W6 | ✅ written |
 | 07 | [Neural Network Fundamentals](ml-theory/07-neural-networks.md) | W7 | 🟡 scaffold |
 | 08 | [NLP & Transformers](ml-theory/08-nlp-transformers.md) | W8 | 🟡 scaffold |
 | 09 | [LLMs & Agentic AI](ml-theory/09-llms-agentic.md) | W9 | 🟡 scaffold |
-| + | [SVM (theory read-through)](ml-theory/10-svm.md) | W6 light | 🟡 scaffold |
+| + | [SVM (theory read-through)](ml-theory/10-svm.md) | W6 light | ✅ written |
 | + | [Naive Bayes (stretch)](ml-theory/11-naive-bayes.md) | stretch | 🟡 scaffold |
 
 ### 2. From-scratch implementations ([`implementations/`](implementations/))
@@ -55,11 +55,11 @@ Canonical builds — must code without notes by October. See [`implementations/R
 | 1 | [Linear Regression (GD)](implementations/src/linear_regression.py) | ✅ done (prior) — to port |
 | 2 | [Logistic Regression (GD)](implementations/src/logistic_regression.py) | ✅ done (prior) — to port |
 | 3 | [KNN Classifier](implementations/src/knn.py) | ✅ written |
-| 4 | [K-Means](implementations/src/kmeans.py) | 🟡 scaffold |
-| 5 | [Decision Tree](implementations/src/decision_tree.py) | 🟡 scaffold |
+| 4 | [K-Means](implementations/src/kmeans.py) | ✅ written |
+| 5 | [Decision Tree](implementations/src/decision_tree.py) | ✅ written |
 | 6 | [One-hidden-layer MLP (numpy)](implementations/src/mlp.py) | 🟡 scaffold |
 | S | [Naive Bayes (stretch)](implementations/src/naive_bayes.py) | 🟡 scaffold |
-| S | [PCA (stretch)](implementations/src/pca.py) | 🟡 scaffold |
+| S | [PCA (stretch)](implementations/src/pca.py) | ✅ written |
 
 ### 3. DSA ([`dsa/`](dsa/))
 See [`dsa/README.md`](dsa/README.md) for the pattern priority order and progress.

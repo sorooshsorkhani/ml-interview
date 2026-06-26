@@ -6,33 +6,33 @@ Legend: ✅ done · 🟡 in progress · ⬜ not started
 - [x] Linear Regression (GD, +L2)
 - [ ] Logistic Regression (port)
 - [x] KNN
-- [ ] K-Means
-- [ ] Decision Tree (split logic)
+- [x] K-Means
+- [x] Decision Tree (split logic)
 - [ ] One-hidden-layer MLP
 - [ ] _stretch:_ Naive Bayes
-- [ ] _stretch:_ PCA
+- [x] _stretch:_ PCA
 
 ## ML theory notes
 - [x] 00 Foundations (recap)
 - [x] 01 Regularization & Optimization
 - [x] 02 KNN
-- [ ] 03 Decision Trees
-- [ ] 04 Bagging & Random Forests
-- [ ] 05 Boosting
-- [ ] 06 K-Means & PCA
+- [x] 03 Decision Trees
+- [x] 04 Bagging & Random Forests
+- [x] 05 Boosting
+- [x] 06 K-Means & PCA
 - [ ] 07 Neural Networks
 - [ ] 08 NLP & Transformers
 - [ ] 09 LLMs & Agentic AI
-- [ ] 10 SVM (read-through)
+- [x] 10 SVM (read-through)
 - [ ] 11 Naive Bayes (stretch)
 
 ## DSA patterns
 - [x] Pattern note: Arrays/Strings/Hash maps
-- [ ] Two pointers
-- [ ] Sliding window
-- [ ] Binary search
-- [ ] Linked lists
-- [ ] Stacks/queues
+- [x] Two pointers
+- [x] Sliding window
+- [x] Binary search
+- [x] Linked lists
+- [x] Stacks/queues
 - [ ] Trees
 - [ ] Heaps
 - [ ] Intervals
@@ -42,8 +42,8 @@ Legend: ✅ done · 🟡 in progress · ⬜ not started
 ## Light slot
 - [x] Classification metrics
 - [ ] Regression metrics
-- [ ] Cross-validation & leakage
-- [ ] Calibration & imbalance
+- [x] Cross-validation & leakage
+- [x] Calibration & imbalance
 - [ ] Probability/Bayes
 - [ ] Bias–variance & MLE
 - [ ] Hypothesis testing & A/B

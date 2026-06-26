@@ -7,11 +7,11 @@ The AMLS coding bar is usually **Easy → Medium**. Depth on high-yield patterns
 | Order | Pattern | File | Week | Status |
 |---|---|---|---|---|
 | 1 | Arrays / Strings / Hash maps | [01-arrays-strings-hashmaps.md](01-arrays-strings-hashmaps.md) | W1–W2 | ✅ written |
-| 2 | Two pointers | [02-two-pointers.md](02-two-pointers.md) | W3 | 🟡 |
-| 3 | Sliding window | [03-sliding-window.md](03-sliding-window.md) | W3 | 🟡 |
-| 4 | Binary search | [04-binary-search.md](04-binary-search.md) | W4 | 🟡 |
-| 5 | Linked lists | [05-linked-lists.md](05-linked-lists.md) | W5 | 🟡 |
-| 6 | Stacks & queues | [06-stacks-queues.md](06-stacks-queues.md) | W6 | 🟡 |
+| 2 | Two pointers | [02-two-pointers.md](02-two-pointers.md) | W3 | ✅ written |
+| 3 | Sliding window | [03-sliding-window.md](03-sliding-window.md) | W3 | ✅ written |
+| 4 | Binary search | [04-binary-search.md](04-binary-search.md) | W4 | ✅ written |
+| 5 | Linked lists | [05-linked-lists.md](05-linked-lists.md) | W5 | ✅ written |
+| 6 | Stacks & queues | [06-stacks-queues.md](06-stacks-queues.md) | W6 | ✅ written |
 | 7 | Trees (BFS / DFS / BST) | [07-trees.md](07-trees.md) | W7 | 🟡 |
 | 8 | Heaps | [08-heaps.md](08-heaps.md) | W8 | 🟡 |
 | 9 | Intervals | [09-intervals.md](09-intervals.md) | W8 | 🟡 |
